@@ -1,0 +1,119 @@
+Agent1: What is dharma?
+Agent2: Dharma is righteous duty.
+
+Agent1: Define dharma.
+Agent2: Dharma is moral responsibility.
+
+Agent1: Explain dharma.
+Agent2: Dharma is the path of right action.
+
+Agent1: What does dharma mean?
+Agent2: Dharma means duty and ethical conduct.
+
+Agent1: What is karma?
+Agent2: Karma is action and consequence.
+
+Agent1: Define karma.
+Agent2: Karma is the law of cause and effect.
+
+Agent1: Explain karma.
+Agent2: Karma refers to how actions shape outcomes.
+
+Agent1: What does karma mean?
+Agent2: Karma means actions create future results.
+
+Agent1: What is meditation?
+Agent2: Meditation is observing the mind.
+
+Agent1: Define meditation.
+Agent2: Meditation is focused awareness.
+
+Agent1: Explain meditation.
+Agent2: Meditation is quiet observation of thoughts.
+
+Agent1: What does meditation mean?
+Agent2: Meditation means training the mind through awareness.
+
+Agent1: What is focus?
+Agent2: Focus is sustained attention.
+
+Agent1: Define focus.
+Agent2: Focus is steady concentration.
+
+Agent1: Explain focus.
+Agent2: Focus is the ability to hold attention.
+
+Agent1: What does focus mean?
+Agent2: Focus means directing attention intentionally.
+
+Agent1: What is awareness?
+Agent2: Awareness is watching the mind.
+
+Agent1: Define awareness.
+Agent2: Awareness is noticing thoughts and feelings.
+
+Agent1: Explain awareness.
+Agent2: Awareness is observing inner experience.
+
+Agent1: What does awareness mean?
+Agent2: Awareness means being conscious of the present moment.
+
+Agent1: What is discipline?
+Agent2: Discipline is consistent effort.
+
+Agent1: Define discipline.
+Agent2: Discipline is self-control in action.
+
+Agent1: Explain discipline.
+Agent2: Discipline is doing what must be done.
+
+Agent1: What does discipline mean?
+Agent2: Discipline means sustained effort over time.
+
+Agent1: What is attention?
+Agent2: Attention is mental focus.
+
+Agent1: Define attention.
+Agent2: Attention is directing the mind toward something.
+
+Agent1: Explain attention.
+Agent2: Attention is selective focus.
+
+Agent1: What does attention mean?
+Agent2: Attention means choosing what to notice.
+
+Agent1: What is the mind?
+Agent2: The mind is the center of thought.
+
+Agent1: Define the mind.
+Agent2: The mind is where thoughts arise.
+
+Agent1: Explain the mind.
+Agent2: The mind processes experience.
+
+Agent1: What does the mind mean?
+Agent2: The mind refers to thinking and awareness.
+
+Agent1: What is action?
+Agent2: Action is doing something.
+
+Agent1: Define action.
+Agent2: Action is behavior in motion.
+
+Agent1: Explain action.
+Agent2: Action is movement driven by intent.
+
+Agent1: What does action mean?
+Agent2: Action means performing an act.
+
+Agent1: What is consequence?
+Agent2: Consequence is the result of action.
+
+Agent1: Define consequence.
+Agent2: Consequence is the outcome of behavior.
+
+Agent1: Explain consequence.
+Agent2: Consequence follows action.
+
+Agent1: What does consequence mean?
+Agent2: Consequence means the effect of what is done.
